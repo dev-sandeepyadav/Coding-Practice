@@ -2,10 +2,9 @@
 using namespace std;
 int main()
 {
-    char name;
-    for(name='a';name<='z';name=name+1)
+    for(int i=10;i>=1;i--)
     {
-        cout<<name<<endl;
+        cout<<i<<" ";
     }
    
 }
