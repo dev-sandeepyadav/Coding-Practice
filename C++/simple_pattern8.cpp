@@ -6,7 +6,7 @@ int main()
     {
         for(char col='a';col<='e';col++)
         {
-            cout<<col<<" ";
+            cout<<col<<" ";//a,b,c,d,e print hoga 5 row me 
         }
         cout<<endl;
     }
