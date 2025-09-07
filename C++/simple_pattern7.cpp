@@ -9,7 +9,7 @@ int main()
         char name ='a'+row-1;
         for(col=1;col<=5;col++)
         {
-            cout<<name<<" ";//a,b,c,d,e, jitna row value rahega utna row me print hoga  
+            cout<<name<<" ";//    a,a,a,a,a...next line b,b,b,b,b tisare line c,c,c,c,c jitna row value rahega utna bar print hoga  
         }
         cout<<endl;
     }
