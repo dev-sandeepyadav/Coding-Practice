@@ -1,29 +1,19 @@
 #include<iostream>
-using  namespace std;
-
+using namespace std;
 int main()
 {
-    int n;
-    cout<<"enter your number ";
+    int n,first = 0,second=1,next;
+
+    cout<<"enter your numbr : ";
     cin>>n;
-    if(n<2)
+    cout<<"fibonacci series :";
+
+    for(int i=1;i<=n;i++)
     {
-        cout<<"number is not prime";
-        return 0;
+        cout<<first<<" ";
+        next= first + second;
+        first = second;
+        second = next;
     }
-    else
-    {
-        for(int i=2;i<n;i++)
-        {
-            if(n%2==0)
-            {
-                cout<<"numner is not prime";
-                return 0;
-            }
-            
-    
-        }
-         cout<<"number is prime number";
-    }
-    
+    return 0;
 }
