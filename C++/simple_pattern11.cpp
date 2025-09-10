@@ -11,7 +11,7 @@ int main()
     {
         for(int j=1; j<=i;j++)
         {
-            cout<<j<<" ";//ek line ek star ,second line me 2 star aise print hota rahega '
+            cout<<j<<" ";//es code number print hoga jaise first line me 1 and second line me 1,2 third me 1,2,3, aise print hoga 
         }
         cout<<endl;
     }
