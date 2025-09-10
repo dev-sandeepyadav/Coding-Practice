@@ -7,7 +7,7 @@ int main()
      {
         for(int j=1;j<=5;j++)   
         {
-            cout<<count<<" ";//1 ,2,3,4,5 aise hi 5 row print hoga number 25 tak
+            cout<<count<<" ";//1 ,2,3,4,5 aise hi 5 row print hoga number 25 tak      
             
             count++;  
         }
