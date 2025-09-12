@@ -18,3 +18,7 @@ int main()
         cout<<endl;
     }
 }
+//           *
+ //      *   *
+   // *  *   *
+//upto n number tak
