@@ -18,3 +18,7 @@ int main()
         cout<<endl;
     }
 }
+
+//          A
+//       B  A
+//    C  B  A will output generated its depend on input 
