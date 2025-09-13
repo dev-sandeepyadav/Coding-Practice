@@ -18,8 +18,15 @@ int main()
         cout<<endl;
     }
 }
+<<<<<<< HEAD
 //           1
 //         2 1
 //       3 2 1
 //     4 3 2 1
 //   5 4 3 2 1 upto n number           
+=======
+
+//          A
+//       B  A
+//    C  B  A will output generated its depend on input 
+>>>>>>> 429b76542239517fb63b52e363f95478f448264d
