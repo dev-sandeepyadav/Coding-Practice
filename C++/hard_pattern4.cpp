@@ -9,11 +9,11 @@ int main()
     {
         for(int j=1;j<=n-i;j++)
         {
-            cout<<" ";
+            cout<<"  ";
         }
-        for(int j=1;j<=i;j++)
+        for(char j='A';j<='A'+(i-1);j++)
         {
-            cout<<j ;
+            cout<< j<<" " ;
         }
         cout<<endl;
     }
