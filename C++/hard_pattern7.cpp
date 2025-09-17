@@ -17,19 +17,9 @@ int main()
         }
         cout<<endl;
     }
-<<<<<<< HEAD
 }
 //    * * * * * * * *  *
 //      * * * * * * *
 //        * * * * *     
 //          * * *
-//            *      output generated  of this code for input 5 
-=======
-    
-}
-//              1
-//           1  2  1
-//        1  2  3   2  1
-//      1  2  3  4  3   2   1
-//   1  2  3   4  5  4  3   2   1 output generated 
->>>>>>> f99fe0e13a9649419108aa2dcaa2776884ce6734
+//            *      output generated  of this code for input 5
