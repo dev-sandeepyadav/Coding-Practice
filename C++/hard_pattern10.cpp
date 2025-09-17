@@ -42,3 +42,12 @@ int main()
     cout<<endl;
    }
 }
+// *                 *
+// * *             * *  
+// * * *         * * *
+// * * * *     * * * *
+// * * * * * * * * * *
+// * * * *     * * * *
+// * * *         * * *
+// * *             * *
+// *                 *   output generated of this code for input 5 ;
