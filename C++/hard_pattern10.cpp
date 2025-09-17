@@ -50,4 +50,4 @@ int main()
 // * * * *     * * * *
 // * * *         * * *
 // * *             * *
-// *                 *   output generated of this code for input 5 ;
+// *                 *   output generated of this code for input 5 ;   
