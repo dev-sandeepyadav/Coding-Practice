@@ -2,9 +2,10 @@
 using namespace std;
 int main()
 {
-    int i;
-    for( i=100;i<=200;i++)
+    int i=1;
+    while(i<=10)
     {
         cout<<i<<endl;
+        i++;
     }
 }
